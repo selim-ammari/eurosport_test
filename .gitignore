@@ -1,0 +1,7 @@
+# Ignore les répertoires node_modules
+node_modules/
+
+# Ignore les fichiers .lock (package-lock.json, yarn.lock, etc.)
+**/yarn.lock
+**/package-lock.json
+**/npm-shrinkwrap.json
